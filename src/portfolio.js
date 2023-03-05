@@ -1,7 +1,7 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://github.com/mateovargas',
-  title: 'JS.',
+  title: 'Github',
 }
 
 const about = {
@@ -9,7 +9,7 @@ const about = {
   name: 'Mateo Vargas',
   role: 'Full Stack Developer',
   description:
-    'Software Developer, hobbyist game developer, and traveler. Find me working on code or playing some video games.',
+    'Software Developer, hobbyist game developer, twitch streamer, and traveler based in San Diego. Find me working on code or playing some video games. Currently at Pushpay as a Software Development Engineer II.',
   resume: '',
   social: {
     linkedin: 'https://www.linkedin.com/in/mateo-vargas-03896189/',
@@ -66,15 +66,12 @@ const skills = [
   'Axios',
   'Express',
   'NodeJS',
-  'MongoDB',
   'MySQL',
   'Python',
-  'Django',
-  'Unity',
-  'C#',
   'Git',
-  'Firebase',
-  'Heroku'
+  'GraphQL',
+  'NewRelic',
+  'PHP'
 ]
 
 const contact = {
